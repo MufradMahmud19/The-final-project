@@ -14,7 +14,7 @@
     <a href="#">Profile</a> <!--
     --><a href="#"> Settings</a> <!--
     --><a href="#"> Notifications</a> <!--
-    --><a href="#">Logout</a>
+    --><a href="#">Lucifer</a>
   </nav>
 </header>
 <section>
@@ -45,7 +45,7 @@ Progress in life goals<mark>(67%)<progress value="67" max="100"></mark></progres
 
 <section>
 	<footer>
-	<img source="newlogo.png" alt="logo">
+	<img src="newlogo.png" alt="logo">
 	This page was created by <mark>Mufrad Mahmud</mark> & Coleen van Lent. To learn more about web design, visit <a href="http://www.intro-webdesign.com/">Intro to Web Design</a>.
 	</footer>
 </body>
